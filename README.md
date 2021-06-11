@@ -57,3 +57,16 @@ python food_effect_model_data_preprocess.py
 Run
 `food_model.ipynb` and `food_model_bert.ipynb`
 
+## Citation
+
+```bibtex
+@article{shi2021information,
+  title={Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing},
+  author={Shi, Yiwen and Ren, Ping and Zhang, Yi and Gong, Xiajing and Hu, Meng and Liang, Hualou},
+  journal={Frontiers in Research Metrics and Analytics},
+  volume={6},
+  pages={40},
+  year={2021},
+  publisher={Frontiers}
+}
+```
